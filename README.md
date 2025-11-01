@@ -1,4 +1,4 @@
-# Coffeeq
+# CoffeeQ
 
 ## PT-BR (Português Brasil)
 
