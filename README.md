@@ -12,11 +12,11 @@ A construção do modelo será guiada pelas equações de estado da Termodinâmi
 ### Especificações da Máquina
 
 
-. Processador: Ryzen 7 - 5700;
-. Memória RAM: 16 GB;
-. Placa de vídeo: Nvidia GEForce RTX 4060Ti;
-. Fonte: Cosair 650W;
-. Resfrimento: Water Coller Ryse Mode - 240mm.
+- Processador: Ryzen 7 - 5700;
+- Memória RAM: 16 GB;
+- Placa de vídeo: Nvidia GEForce RTX 4060Ti;
+- Fonte: Cosair 650W;
+- Resfrimento: Water Coller Ryse Mode - 240mm.
 
 ### Stacks
 ### Esquemática
